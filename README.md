@@ -6,7 +6,7 @@ Un fichier README est un fichier qui contient des informations sur d'autres fich
 
 > Expliquez ce que fait votre programme et comment il fonctionne.
 
-sous-titre : Labo 00 réponse
+#sous-titre : Labo 00 réponse
 
 Le programme initialise deux variable de type "int" et une troisième variable de type "int" qui fait la somme des deux précèdentes variables.
 
